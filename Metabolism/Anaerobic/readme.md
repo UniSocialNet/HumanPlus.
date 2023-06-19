@@ -1,4 +1,6 @@
 # Anaerobic Metabolism
+https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration
+
 https://en.wikipedia.org/wiki/Anaerobic_organism#Metabolism
 
 ## & Lactic acid fermentation
