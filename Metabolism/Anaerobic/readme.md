@@ -34,3 +34,6 @@ https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration
 ## Spinoloricus
 - https://en.wikipedia.org/wiki/Spinoloricus_cinziae
 - https://en.wikipedia.org/wiki/Anaerobic_organism#/media/File:Spinoloricus.png
+
+## Anaerobes
+https://en.wikipedia.org/wiki/Facultative_anaerobic_organism
