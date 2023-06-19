@@ -1,5 +1,7 @@
 # Anaerobic Metabolism
 ## & Lactic acid fermentation
+https://en.wikipedia.org/wiki/Citric_acid_cycle
+
 https://en.wikipedia.org/wiki/Lactic_acid_fermentation
 - [Lactic_acid #Biology](https://en.wikipedia.org/wiki/Lactic_acid#Biology)
 - [Neural tissue energy source](https://en.wikipedia.org/wiki/Lactic_acid#Neural_tissue_energy_source))
