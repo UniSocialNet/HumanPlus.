@@ -1,7 +1,9 @@
-# Lactic acid
-- [Neural tissue energy source](https://en.wikipedia.org/wiki/Lactic_acid#Neural_tissue_energy_source))
+# Anaerobic Metabolism
+## & Lactic acid
 - [Lactic_acid #Biology](https://en.wikipedia.org/wiki/Lactic_acid#Biology)
+- [Neural tissue energy source](https://en.wikipedia.org/wiki/Lactic_acid#Neural_tissue_energy_source))
 - [Lactoylphenylalanine](https://en.wikipedia.org/wiki/Lac-Phe)
+- [Pyruvic acid](https://en.wikipedia.org/wiki/Pyruvic_acid)
 
 This is why Miso tastes SO good!
 - [Miso](https://en.wikipedia.org/wiki/Miso)
