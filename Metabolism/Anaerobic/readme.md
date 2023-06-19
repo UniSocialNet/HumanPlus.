@@ -25,5 +25,12 @@ Amazing New Discoveries & Understanding of Cancer Causation & How to Treat it! [
 https://en.wikipedia.org/wiki/Citric_acid_cycle
 [Metabolic_pathway](https://en.wikipedia.org/wiki/Metabolic_pathway)
 
+## Hydrogenosome
+https://en.wikipedia.org/wiki/Hydrogenosome
+
 ## Vs: Aerobic respiration
 https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration
+
+## Spinoloricus
+- https://en.wikipedia.org/wiki/Spinoloricus_cinziae
+- https://en.wikipedia.org/wiki/Anaerobic_organism#/media/File:Spinoloricus.png
