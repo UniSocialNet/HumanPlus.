@@ -1,3 +1,4 @@
 - [How Metal Toxicity Affects Health And Aging](https://youtu.be/grOgjha7ifE)
 - [How I Got Poisoned For 2 Years, Almost Died, Survived & Recovered](https://youtu.be/grOgjha7ifE)
 - [Top 9 Symptoms of Heavy Metal Toxicity | Cabral Concept 2575](https://youtu.be/QTMH3DA8nMY)
+- [The Doctor's Farmacy with Mark Hyman M.D.](https://www.youtube.com/playlist?list=PLA5Z1Q1JnNwa-PnH0B6x9DfM8pxeO4blX)
